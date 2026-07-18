@@ -1,0 +1,3 @@
+INFO: User logged in successfully
+ERROR: Database connection failed (Timeout)
+INFO: Retrying connection...
